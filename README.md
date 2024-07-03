@@ -1,2 +1,1 @@
-# Simple_UN_Vote_Visualizer
-A jupyter notebook that allows you to input a url from the UN digital library and output a map of each countries vote.
+A Jupyter notebook that allows you to input a URL from the UN Digital Library and outputs a map of each country's vote.
